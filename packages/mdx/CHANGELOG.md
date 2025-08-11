@@ -1,5 +1,14 @@
 # next-docs-mdx
 
+## 11.7.5
+
+### Patch Changes
+
+- c17fa03: Support creating a separate processor when `<include />` points to different Markdown format
+- Updated dependencies [569bc26]
+- Updated dependencies [817c237]
+  - fumadocs-core@15.6.10
+
 ## 11.7.4
 
 ### Patch Changes
